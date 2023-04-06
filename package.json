@@ -1,13 +1,23 @@
 {
-  "name": "owo",
+  "name": "owo-theme",
   "displayName": "owo",
-  "description": "color theme ",
+  "description": "Customized theme of codeSTACKr",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.77.0"
   },
+  "publisher": "AsapYoa",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Joaquin-Garcia-Plante/custom-theme-codeSTACKr.git"
+  },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "sakura"
   ],
   "contributes": {
     "themes": [
