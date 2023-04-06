@@ -1,15 +1,15 @@
 # owo README
 
-### About
+## About
 
 This theme is an customized version from theme codeSTACKr
 
-#### Original Author info
+### Original Author info
 
 codeSTACKr repository: <https://github.com/codeSTACKr/codestackr-vscode-theme>
 
 codeSTACKr: <https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme>
 
-#### My version customized info
+### My version customized info
 
 Repository: <https://github.com/Joaquin-Garcia-Plante/custom-theme-codeSTACKr>
