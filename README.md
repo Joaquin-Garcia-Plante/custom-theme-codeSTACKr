@@ -13,3 +13,5 @@ codeSTACKr: <https://marketplace.visualstudio.com/items?itemName=codestackr.code
 ### My version customized info
 
 Repository: <https://github.com/Joaquin-Garcia-Plante/custom-theme-codeSTACKr>
+
+Theme: <https://marketplace.visualstudio.com/items?itemName=owo-theme.owo-theme>

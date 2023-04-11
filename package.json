@@ -1,8 +1,8 @@
 {
   "name": "owo-theme",
-  "displayName": "owo",
+  "displayName": "owo__sakura",
   "description": "Customized theme of codeSTACKr",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.77.0"
   },
@@ -22,7 +22,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Joaquin Garcia",
+        "label": "OwO Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Joaquin Garcia-color-theme.json"
       }
